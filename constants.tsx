@@ -24,7 +24,7 @@ export const MOCK_PARTS: Part[] = [
     salePrice: 45.00,
     stock: 15,
     minStock: 5,
-    imageUrl: 'https://images.unsplash.com/photo-1486001029854-f745c85fd5a4?auto=format&fit=crop&q=80&w=200&h=200',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe9X1e78dxQlbfL-jSL9jq0-Y5jh6_2Nv3pQ&s?auto=format&fit=crop&q=80&w=200&h=200',
     barcode: '741258963',
     movements: [
       { id: 'm1', date: '2023-10-01', type: 'IN', quantity: 20, note: 'Compra inicial proveedor' },
@@ -43,7 +43,7 @@ export const MOCK_PARTS: Part[] = [
     salePrice: 15.00,
     stock: 2,
     minStock: 10,
-    imageUrl: 'https://images.unsplash.com/photo-1635773054018-02905001a1d6?auto=format&fit=crop&q=80&w=200&h=200',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNna31ItCNhMlNbqziXQA4v-Vf6D1uHoPU8Q&s?auto=format&fit=crop&q=80&w=200&h=200',
     movements: []
   },
   {
@@ -58,7 +58,7 @@ export const MOCK_PARTS: Part[] = [
     salePrice: 75.00,
     stock: 0,
     minStock: 2,
-    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHMUzGYf8TegrFZMAkcGY0DE7FFviwa32uw&sauto=format&fit=crop&q=80&w=200&h=200',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5jP5dzNR9cOA42sBfLZ_cCIC5q_CO8PbEw&sauto=format&fit=crop&q=80&w=200&h=200',
     movements: []
   },
   {
@@ -73,7 +73,7 @@ export const MOCK_PARTS: Part[] = [
     salePrice: 55.00,
     stock: 12,
     minStock: 4,
-    imageUrl: 'https://images.unsplash.com/photo-1511994298241-608e28f14fde?auto=format&fit=crop&q=80&w=200&h=200',
+    imageUrl: 'https://www.chaparei.com/imgs/productos/productos31_62858.jpg?auto=format&fit=crop&q=80&w=200&h=200',
     movements: []
   }
 ];
