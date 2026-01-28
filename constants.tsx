@@ -58,7 +58,7 @@ export const MOCK_PARTS: Part[] = [
     salePrice: 75.00,
     stock: 0,
     minStock: 2,
-    imageUrl: 'https://images.unsplash.com/photo-1599256621730-535171e28e50?auto=format&fit=crop&q=80&w=200&h=200',
+    imageUrl: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIHMUzGYf8TegrFZMAkcGY0DE7FFviwa32uw&sauto=format&fit=crop&q=80&w=200&h=200',
     movements: []
   },
   {
